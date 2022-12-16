@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sscred"
-version = "0.3.3"
+version = "0.3.4"
 description = "SSCred without ACL and Commitment"
 authors = ["Kasra EdalatNejad <kasra.edalat@epfl.ch>"]
 maintainers = [
@@ -25,7 +25,7 @@ packages = [{include = "sscred"}]
 
 
 [tool.poetry.dependencies]
-python = "^3.8,<3.11"
+python = "^3.8"
 petlib = {git = "https://github.com/spring-epfl/petlib.git"}
 
 
