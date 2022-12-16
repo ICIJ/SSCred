@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sscred"
-version = "0.3.1"
+version = "0.3.2"
 description = "SSCred without ACL and Commitment"
 authors = ["Kasra EdalatNejad <kasra.edalat@epfl.ch>"]
 maintainers = [
