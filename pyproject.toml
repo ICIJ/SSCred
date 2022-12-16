@@ -25,7 +25,7 @@ packages = [{include = "sscred"}]
 
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.8,<3.11"
 petlib = {git = "https://github.com/spring-epfl/petlib.git"}
 
 
